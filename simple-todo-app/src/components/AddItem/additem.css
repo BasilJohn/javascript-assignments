@@ -1,0 +1,16 @@
+
+.AddItem-component {
+    width: 25%;
+    padding: 20px;
+    align-self: center
+}
+.AddItem-controls  {
+ 
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    justify-content: space-between;
+}
+
+

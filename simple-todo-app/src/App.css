@@ -1,0 +1,30 @@
+.App {
+  display: flex;
+  flex-direction: column;
+    
+}
+
+.Input-common{
+
+  border-radius: 5px;
+  height: 35px;
+  width: 80%;
+  border: 1px solid lightgray; 
+}
+.Label-common{
+  
+  display: flex;
+  justify-content:flex-end;
+  align-items: center;
+  color: gray;
+  font-weight: bold
+}
+.Item-header {
+  font-weight: bold;
+  border-bottom: 3px solid black;
+  padding-bottom: 10px
+ }
+ .Checkbox-common{
+  justify-content:center;
+  align-self: center;
+ }
